@@ -1,0 +1,1 @@
+SELECT max(custno)+1 as custno from tbl_member_202205
